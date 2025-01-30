@@ -63,6 +63,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## Contact
 For any queries, reach out via:
-- Email: your-email@example.com
+- Email: someshrawool6@gmail.com
 - GitHub: [SomeshRawool001](https://github.com/SomeshRawool001/Blogspot)
 
